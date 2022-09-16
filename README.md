@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Aymenkerrouche
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Flutter
-- ✨ I’m looking for Intership
+- 👀 Interested in IT
+- 🌱 I’m currently working with Flutter
+- ✨ Looking for experience
