@@ -1,3 +1,3 @@
 - 👋 Aymen kerrouche
 - 👀 Interested in IT
-- ✨ Innovative solutions 
+- ✨ Fullstack - Mobile Developer 
